@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** based in India. I have a passion for building eff
 
 ## 🔭 Currently Working On
 
-I am currently working at HTS Tech Solution as Software Backend Developer and focused on developing full-stack applications and enhancing my DevOps skills. 
+I am currently working at Concentris as Senior Software Backend Developer and focused on developing full-stack applications and enhancing my DevOps skills. 
 
 ## 🌐 Tech Stack
 
