@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Shashwat Pal
 
-I'm a **Full Stack Developer** based in India. I have a passion for building efficient, scalable applications and infrastructure. My expertise spans a wide range of technologies and tools.
+I'm a **Senior Full Stack Developer** with **7+ years of experience** based in India. I specialize in building scalable, production-grade applications with expertise spanning the entire tech stack - from frontend UI/UX to backend architecture, DevOps, and AI/ML integration.
 
 ## 🔭 Currently Working On
 
-I am currently working at Concentrix as Senior Software Backend Developer and focused on developing full-stack applications and enhancing my DevOps skills. 
+I am currently working at Concentrix as Senior Software Backend Developer and focused on developing full-stack applications, enhancing my DevOps skills, and exploring AI/ML integration in modern web applications.
 
 ## 🌐 Tech Stack
 
